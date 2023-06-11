@@ -1,0 +1,31 @@
+
+body{
+    background-color: darkkhaki;
+}
+h1{
+    text-transform: uppercase;
+    size: 2rem;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+}
+.ME{
+    border: 3px solid white
+}
+.Services {
+    margin-left: 3%;
+}
+.Contact {
+    margin-left: 3%;
+}
+
